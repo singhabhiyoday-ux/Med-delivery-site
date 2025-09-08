@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QuickMeds - Medicine Delivery</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; }
+    header { background: #28a745; color: white; padding: 20px; text-align: center; }
+    section { padding: 20px; max-width: 800px; margin: auto; }
+    .cta-btn {
+      display: inline-block; background: #25D366; color: white;
+      padding: 15px 25px; text-decoration: none; font-size: 18px;
+      border-radius: 5px; margin-top: 20px;
+    }
+    footer { background: #343a40; color: white; text-align: center; padding: 10px; font-size: 14px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>QuickMeds</h1>
+  <p>Fast & Reliable Medicine Delivery in Jabalpur</p>
+</header>
+
+<section>
+  <h2>About Us</h2>
+  <p>We deliver medicines to your doorstep quickly and safely. Available 9 AM – 9 PM, 7 days a week.</p>
+
+  <h2>How It Works</h2>
+  <ol>
+    <li>Join our WhatsApp group</li>
+    <li>Send your prescription/order</li>
+    <li>Receive your medicines at home</li>
+  </ol>
+
+  <a class="cta-btn" href="https://chat.whatsapp.com/YOUR_GROUP_LINK" target="_blank">
+    📲 Join Our WhatsApp Group
+  </a>
+</section>
+
+<footer>
+  <p>© 2025 QuickMeds. All rights reserved. Medicines delivered only against valid prescriptions.</p>
+</footer>
+
+</body>
+</html>
